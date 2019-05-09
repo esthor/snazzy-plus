@@ -572,7 +572,7 @@
     "contrastActiveBorder": null,
     "focusBorder": "#6C6E75",
     // "widget.shadow": null,
-    "selection.background": "#6C6E75",
+    "selection.background": "#57c7ff",
     "errorForeground": "#ff5c57",
     "button.background": "#ff6ac1",
     "button.foreground": "#eff0eb",
